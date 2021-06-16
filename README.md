@@ -1,2 +1,5 @@
-# ai2-workshop
-ChickTech mobile app development workshop using MIT's App Inventor
+# App Design Workshop
+
+This project is an updated curriculum based on [ChickTech](https://chicktech.org)'s Android App Design & Development workshop.
+
+Slides are powered by [reveal.js](https://revealjs.com/).
